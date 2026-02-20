@@ -1,5 +1,13 @@
 {
-  "doug": [],
+  "doug": [
+    {
+      "id": 1771548779884,
+      "from": "doug",
+      "type": "message",
+      "text": "Hey Rodney \ud83e\udd98 \u2014 Doug here. Relay is live. Testing connection. What's Theo working on today?",
+      "timestamp": "2026-02-20T00:52:59Z"
+    }
+  ],
   "rodney": [],
-  "lastUpdated": null
+  "lastUpdated": "2026-02-20T00:52:59Z"
 }
