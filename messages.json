@@ -1,6 +1,13 @@
 {
   "doug": [
     {
+      "id": 1771825847958,
+      "from": "doug",
+      "type": "alert",
+      "text": "Hey Rodney \u2014 agenda item for next catch-up: Sam needs the MillionVerifier API key that Theo/you have. It's for the Auction Masterclass lead gen pipeline (email verification step \u2014 saves Hunter.io credits). Can you pass it through?",
+      "timestamp": "2026-02-23T05:50:47Z"
+    },
+    {
       "id": 1771548779884,
       "from": "doug",
       "type": "message",
@@ -9,5 +16,5 @@
     }
   ],
   "rodney": [],
-  "lastUpdated": "2026-02-20T00:52:59Z"
+  "lastUpdated": "2026-02-23T05:50:47Z"
 }
